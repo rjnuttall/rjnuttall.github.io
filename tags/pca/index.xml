@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PCA on home</title>
+    <link>https://rjnuttall.github.io/tags/pca/</link>
+    <description>Recent content in PCA on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jul 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://rjnuttall.github.io/tags/pca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rec-me-a-Dram for a Dream</title>
+      <link>https://rjnuttall.github.io/post/project-4/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-4/</guid>
+      <description>There are currently around 130 operational Scotch Whisky distilleries in Scotland. Collectively, the Scotch Whisky industry produces over 1 billion bottles of Scotch per year, with an export market valued at around £4b.
+Interest in whisky has been steadily growing for some time, with particular interest in single malt whiskies. Believe it or not, each and every one of the 130 distilleries produces a whisky with a unique flavour profile. For any beginner at the start of their journey into Scotch, the shear breadth of choice can be confusing and daunting, potentially resulting in choice paralysis.</description>
+    </item>
+    
+  </channel>
+</rss>

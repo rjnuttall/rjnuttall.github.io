@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on home</title>
+    <link>https://rjnuttall.github.io/tags/</link>
+    <description>Recent content in Tags on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jul 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://rjnuttall.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clustering</title>
+      <link>https://rjnuttall.github.io/tags/clustering/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>https://rjnuttall.github.io/tags/flask/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>https://rjnuttall.github.io/tags/pca/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/pca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://rjnuttall.github.io/tags/python/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Leaning</title>
+      <link>https://rjnuttall.github.io/tags/machine-leaning/</link>
+      <pubDate>Fri, 11 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/machine-leaning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NLP</title>
+      <link>https://rjnuttall.github.io/tags/nlp/</link>
+      <pubDate>Fri, 11 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/nlp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SKLearn</title>
+      <link>https://rjnuttall.github.io/tags/sklearn/</link>
+      <pubDate>Fri, 11 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/sklearn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web scraping</title>
+      <link>https://rjnuttall.github.io/tags/web-scraping/</link>
+      <pubDate>Fri, 11 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/web-scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistics</title>
+      <link>https://rjnuttall.github.io/tags/statistics/</link>
+      <pubDate>Sun, 09 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

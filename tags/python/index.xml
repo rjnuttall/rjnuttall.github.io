@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on home</title>
+    <link>https://rjnuttall.github.io/tags/python/</link>
+    <description>Recent content in Python on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jul 2021 11:14:48 -0400</lastBuildDate><atom:link href="https://rjnuttall.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rec-me-a-Dram for a Dream</title>
+      <link>https://rjnuttall.github.io/post/project-4/</link>
+      <pubDate>Mon, 12 Jul 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-4/</guid>
+      <description>There are currently around 130 operational Scotch Whisky distilleries in Scotland. Collectively, the Scotch Whisky industry produces over 1 billion bottles of Scotch per year, with an export market valued at around £4b.
+Interest in whisky has been steadily growing for some time, with particular interest in single malt whiskies. Believe it or not, each and every one of the 130 distilleries produces a whisky with a unique flavour profile. For any beginner at the start of their journey into Scotch, the shear breadth of choice can be confusing and daunting, potentially resulting in choice paralysis.</description>
+    </item>
+    
+    <item>
+      <title>Data Industry job market analysis</title>
+      <link>https://rjnuttall.github.io/post/project-3/</link>
+      <pubDate>Fri, 11 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-3/</guid>
+      <description>An analysis of the current Data Industry job market in Australia looking into factors that affect salaries and distinguish between roles.
+These problems were tackled using Natural Language Processing techniques to breakdown the job descriptions provided and assessed using a Classification model approach to parse out determining features between the desired groups of jobs.
+Data gathering:  The data role details were gathered from SEEK (seek.com.au), with a focus on three key job titles; Data Scientist, Data Analyst and Data Engineer.</description>
+    </item>
+    
+    <item>
+      <title>Housing market analysis</title>
+      <link>https://rjnuttall.github.io/post/project-2/</link>
+      <pubDate>Tue, 25 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-2/</guid>
+      <description>A dive into the Ames housing dataset that describes the sale of individual residential property in Ames, Iowa, USA between 2006 and 2010.
+Exploratory Data Analysis:  Dataset included a total of 1460 data points with 80 Features Focus on Residential properties, so all Commercial properties were removed from the dataset - equated to ~4.5% of total data Generally dataset was messy with multiple occurrences of missing data. Retention of good data was considered key, so imputation of data was preferred as opposed to simply dropping records.</description>
+    </item>
+    
+    <item>
+      <title>Education and Drug use in USA</title>
+      <link>https://rjnuttall.github.io/post/project-1/</link>
+      <pubDate>Sun, 09 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-1/</guid>
+      <description>Introduction: Based on a fictitious scenario, a local government body seeks guidance on whether to focus their constrained budget on high school education or drug abuse, in order to maximise community outcomes.
+Analysis based on two national datasets;
+ State SAT scores; and Drug use statistics by age.  Education:  Participation varies drastically by state, with a US wide median average of 33%. Students across all states who sit the test tend to score relatively well in both Verbal and Maths tests:  US wide median score of approx.</description>
+    </item>
+    
+  </channel>
+</rss>

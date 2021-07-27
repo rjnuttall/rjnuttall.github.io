@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics on home</title>
+    <link>https://rjnuttall.github.io/tags/statistics/</link>
+    <description>Recent content in Statistics on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 May 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://rjnuttall.github.io/tags/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Education and Drug use in USA</title>
+      <link>https://rjnuttall.github.io/post/project-1/</link>
+      <pubDate>Sun, 09 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-1/</guid>
+      <description>Introduction: Based on a fictitious scenario, a local government body seeks guidance on whether to focus their constrained budget on high school education or drug abuse, in order to maximise community outcomes.
+Analysis based on two national datasets;
+ State SAT scores; and Drug use statistics by age.  Education:  Participation varies drastically by state, with a US wide median average of 33%. Students across all states who sit the test tend to score relatively well in both Verbal and Maths tests:  US wide median score of approx.</description>
+    </item>
+    
+  </channel>
+</rss>

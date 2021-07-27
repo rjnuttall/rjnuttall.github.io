@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NLP on home</title>
+    <link>https://rjnuttall.github.io/tags/nlp/</link>
+    <description>Recent content in NLP on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Jun 2021 11:13:32 -0400</lastBuildDate><atom:link href="https://rjnuttall.github.io/tags/nlp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data Industry job market analysis</title>
+      <link>https://rjnuttall.github.io/post/project-3/</link>
+      <pubDate>Fri, 11 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://rjnuttall.github.io/post/project-3/</guid>
+      <description>An analysis of the current Data Industry job market in Australia looking into factors that affect salaries and distinguish between roles.
+These problems were tackled using Natural Language Processing techniques to breakdown the job descriptions provided and assessed using a Classification model approach to parse out determining features between the desired groups of jobs.
+Data gathering:  The data role details were gathered from SEEK (seek.com.au), with a focus on three key job titles; Data Scientist, Data Analyst and Data Engineer.</description>
+    </item>
+    
+  </channel>
+</rss>
